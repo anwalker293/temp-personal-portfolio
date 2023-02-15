@@ -1298,7 +1298,7 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/Willamette.png");
+  background-image: url("../../images/jellyfish.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1344,7 +1344,7 @@ body.is-preload #bg:before {
   width: 100%;
   padding: 4rem 2rem;
   z-index: 3;
-  background-image: "../../images/Willamette.jpeg" !important;
+  background-image: "../../images/" !important;
 }
 
 #wrapper:before {
